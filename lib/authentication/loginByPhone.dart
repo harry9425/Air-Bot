@@ -15,7 +15,7 @@ class _loginByPhonePageState extends State<loginByPhonePage> {
   var phonecontroller=TextEditingController();
   var emailcontroller=TextEditingController();
   var passwordcontroller=TextEditingController();
-  var done=false;
+  var done=true;
   var locationdone=false;
 
   @override
