@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "690194141098",
+    "firebase_url": "https://airbot-7c7ad-default-rtdb.firebaseio.com",
+    "project_id": "airbot-7c7ad",
+    "storage_bucket": "airbot-7c7ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690194141098:android:ae22d3221b0a37a2ab25d3",
+        "android_client_info": {
+          "package_name": "com.example.airbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRY4webwBua5Tw_a4Y_jPz_EWzQiPyvi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
