@@ -1,12 +1,10 @@
 ### AIRbot - Revolutionizing the way logistics work !!!
 
+### Project Report: [AirBot- Final.docx](https://github.com/harry9425/Air-Bot/files/15457202/AirBot-.Final.docx)
 
 ### The project aimed to develop an AI drone system for autonomous emergency kit delivery. It involved the creation of a quadcopter drone capable of autonomous flight, navigation, and delivery. Additionally, a ### user-friendly mobile app was developed for users to request deliveries, with an administrative web interface for real-time monitoring. The project also emphasized the importance of maintaining comprehensive ### documentation throughout to facilitate future maintenance and improvements. 
 
 ![WhatsApp Image 2024-05-27 at 20 12 46_579fa42b](https://github.com/harry9425/Air-Bot/assets/101708836/29bc18e8-54ee-46c7-bd87-34f235145bc2)
-
-
-### Project Report: [AirBot- Final.docx](https://github.com/harry9425/Air-Bot/files/15457202/AirBot-.Final.docx)
 
 
 https://github.com/harry9425/Air-Bot/assets/101708836/0aa52dcb-d642-4ff8-a438-b900c1409123
