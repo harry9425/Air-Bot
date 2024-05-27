@@ -1,6 +1,7 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_database/firebase_database.dart';
 import 'package:flutter/material.dart';
+import 'package:untitled/authentication/verifyPhone.dart';
 import 'package:untitled/homePage.dart';
 import 'package:untitled/bootup/splashScreen.dart';
 
@@ -30,6 +31,7 @@ class MyApp extends StatelessWidget {
         'welcomePage':(context) =>welcomePage(),
         'homePage':(context) =>homePage(),
         'loginByPhone':(context) =>loginByPhonePage(),
+        'verifyByPhone':(context) =>verifyByPhone(),
       },
     );
   }

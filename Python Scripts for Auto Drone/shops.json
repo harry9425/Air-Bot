@@ -1,0 +1,53 @@
+{
+  "shops": {
+    "shop1": {
+      "name": "Walmart",
+      "location": "123 Main St, Anytown, USA",
+      "dp": "https://example.com/walmart.jpg",
+      "isopen": true,
+      "coordinates": "18.4554,73.8675" // Katraj Temple coordinates
+    },
+    "shop2": {
+      "name": "Reliance",
+      "location": "456 Market Rd, Somecity, India",
+      "dp": "https://example.com/reliance.jpg",
+      "isopen": false,
+      "coordinates": "18.4534,73.8659" // Katraj Zoo coordinates
+    },
+    "shop3": {
+      "name": "D-Mart",
+      "location": "789 Shopping Plaza, Anothercity, India",
+      "dp": "https://example.com/dmart.jpg",
+      "isopen": true,
+      "coordinates": "18.4579,73.8626" // Katraj Lake coordinates
+    },
+    "shop4": {
+      "name": "Vishal Mega Store",
+      "location": "101 Mega Avenue, Cityville, India",
+      "dp": "https://example.com/vishal.jpg",
+      "isopen": true,
+      "coordinates": "18.4511,73.8645" // Katraj Dairy coordinates
+    },
+    "shop5": {
+      "name": "Big Bazaar",
+      "location": "987 Shopping Mall, Metropolis, India",
+      "dp": "https://example.com/bigbazaar.jpg",
+      "isopen": false,
+      "coordinates": "18.4645,73.8632" // BVPCOEP, Pune coordinates
+    },
+    "shop6": {
+      "name": "Bigbasket",
+      "location": "543 Grocery Lane, Townsville, India",
+      "dp": "https://example.com/bigbasket.jpg",
+      "isopen": true,
+      "coordinates": "18.4656,73.8535" // Bharti Hospital, Satara Road, Pune coordinates
+    },
+    "shop7": {
+      "name": "Shell",
+      "location": "333 Gas Station Rd, Fuelcity, USA",
+      "dp": "https://example.com/shell.jpg",
+      "isopen": true,
+      "coordinates": "18.4861,73.8327" // Satara Road, Pune coordinates
+    }
+  }
+}
